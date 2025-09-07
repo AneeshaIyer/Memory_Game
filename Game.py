@@ -4,7 +4,7 @@ import random
 class MemoryGame:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("Memory Game")
+        self.root.title("Memory Game") 
         self.root.config(bg="purple")
         self.rows, self.cols = 4,4
         self.setup()
