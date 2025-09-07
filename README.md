@@ -1,1 +1,1 @@
-This is a memory card game 
+This is a memory game with tile selection
