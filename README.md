@@ -20,9 +20,9 @@ Perfect for beginners learning **Python GUI programming** or anyone who enjoys a
 1. Click on a card to reveal it.  
 2. Click another card to find its match.  
 3. If they match, they stay revealed (green highlight).  
-4. If not, they flip back – try to remember their positions!  
+4. If not, they flip back - try to remember their positions!  
 5. Continue until all pairs are matched.  
-6. Check your moves on the counter – can you beat your previous best?
+6. Check your moves on the counter - can you beat your previous best?
    
 
 ## 🎥 Demo
@@ -47,22 +47,22 @@ Perfect for beginners learning **Python GUI programming** or anyone who enjoys a
 
 ## 💻 Built With
 
-- **Python 3.x** – Core programming language  
-- **Tkinter** – For creating the GUI  
-- **Random module** – To shuffle cards and randomly generate different sets of emoji cards each time 
+- **Python 3.x** - Core programming language  
+- **Tkinter** - For creating the GUI  
+- **Random module** - To shuffle cards and randomly generate different sets of emoji cards each time 
 
 Optional: Any IDE or code editor for Python like **VS Code**, **PyCharm**, or **Sublime Text**  
 
 
 ## 🔮 Future Improvements
 
-- **Larger grids** – 6×6 or 8×8 for a bigger challenge
+- **Larger grids** - 6×6 or 8×8 for a bigger challenge
 - **Two Player Mode** - Allows multiple players to compete
-- **Timer mode** – Track how fast players can complete the game  
-- **Leaderboard** – Save high scores and fastest completion times  
-- **Themes & Emojis** – Allow players to choose different card sets  
-- **Sound effects & animations** – Add fun audio/visual feedback  
-- **AI hint system** – Suggest possible matches for learning mode  
+- **Timer mode** - Track how fast players can complete the game  
+- **Leaderboard** - Save high scores and fastest completion times  
+- **Themes & Emojis** - Allow players to choose different card sets  
+- **Sound effects & animations** - Add fun audio/visual feedback  
+- **AI hint system** - Suggest possible matches for learning mode  
 
 
 ## 📚 Learning Outcomes
@@ -75,9 +75,9 @@ Optional: Any IDE or code editor for Python like **VS Code**, **PyCharm**, or **
 
 ## 🎁 Bonus Tip
 
-- **Memory Hack:** Try memorizing the positions of cards – your brain loves the workout!  
+- **Memory Hack:** Try memorizing the positions of cards - your brain loves the workout!  
 - **Challenge Mode:** Keep track of your moves and try to beat your previous score.  
-- **Pro Tip:** Create your own “house rules” – like a time limit or limited hints – to make the game even more fun!
+- **Pro Tip:** Create your own “house rules” - like a time limit or limited hints - to make the game even more fun!
 
 
 ## 💻 Running Locally
@@ -88,7 +88,7 @@ Optional: Any IDE or code editor for Python like **VS Code**, **PyCharm**, or **
 ```bash 
 git clone <https://github.com/AneeshaIyer/Memory_Game.git> 
 ```
-4.Navigate to the folder and run the game:
+4. Navigate to the folder and run the game:
  ```bash
 python memory_game.py
 #or
@@ -96,7 +96,7 @@ python3 memory_game.py
 ```
 
 
-## 🤝 Contributions by Aneesha
+## Contributions
 
 This Memory Game was fully **designed, developed, and created by Aneesha Manjunath Iyer**, including all gameplay mechanics, visuals, and features. Ensured the game is **fun, interactive, and beginner-friendly**, and added the demo, screenshots, and bonus tips to enhance the player experience.  
 
