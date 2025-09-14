@@ -49,7 +49,7 @@ Perfect for beginners learning **Python GUI programming** or anyone who enjoys a
 
 - **Python 3.x** – Core programming language  
 - **Tkinter** – For creating the GUI  
-- **Random module** – To shuffle cards  
+- **Random module** – To shuffle cards and randomly generate different sets of emoji cards each time 
 
 Optional: Any IDE or code editor for Python like **VS Code**, **PyCharm**, or **Sublime Text**  
 
@@ -88,7 +88,7 @@ Optional: Any IDE or code editor for Python like **VS Code**, **PyCharm**, or **
 ```bash 
 git clone <https://github.com/AneeshaIyer/Memory_Game.git> 
 ```
- 4.Navigate to the folder and run the game
+4.Navigate to the folder and run the game:
  ```bash
 python memory_game.py
 #or
