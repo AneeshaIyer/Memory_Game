@@ -86,12 +86,15 @@ Optional: Any IDE or code editor for Python like **VS Code**, **PyCharm**, or **
 2. Tkinter is usually included; if not, install it (`sudo apt-get install python3-tk` on Linux).  
 3. Download or clone the repository:  
 ```bash 
-git clone <repository_url> 
+git clone <https://github.com/AneeshaIyer/Memory_Game.git> 
 ```
-4.Navigate to the folder and run the game
+ 4.Navigate to the folder and run the game
+ ```bash
 python memory_game.py
- or
+#or
 python3 memory_game.py
+```
+
 
 ## 🤝 Contributions by Aneesha
 
