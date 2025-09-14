@@ -11,7 +11,10 @@ Flip cards, match pairs, and try to finish with as few moves as possible!
 - Simple, beginner-friendly code
 
 ## Screenshot
-![Memory Game Screenshot](screenshot.png)
+![Start Screen](Screenshots/Start.png)
+![Wrong Match](Screenshots/Wrongmatch.png)
+![Correct Match](Screenshots/Match.png)
+![Completed Finsih Game](Screenshots/Finish.png)
 
 ## How to run (locally)
 1. Download the repository: **Code → Download ZIP**, then extract.
