@@ -9,7 +9,7 @@ Perfect for beginners learning **Python GUI programming** or anyone who enjoys a
 
 - **Classic 4×4 memory grid** with shuffled emoji cards  
 - **Move counter** to track your performance  
-- **Instant feedback**: matches highlight in green, mismathces return to closedcards  
+- **Instant feedback**: matches highlight in green, mismatches return to closed cards  
 - **End screen** showing your total moves  
 - **Replayable** with a **Play Again** button  
 - Beginner-friendly **Python & Tkinter code**, easy to read and modify
@@ -75,11 +75,24 @@ Optional: Any IDE or code editor for Python like **VS Code**, **PyCharm**, or **
 
 ## 🎁 Bonus Tip
 
-- 🧠 **Memory Hack:** Try memorizing the positions of cards – your brain loves the workout!  
-- 🏆 **Challenge Mode:** Keep track of your moves and try to beat your previous score.  
-- 😎 **Pro Tip:** Create your own “house rules” – like a time limit or limited hints – to make the game even more fun!
+- **Memory Hack:** Try memorizing the positions of cards – your brain loves the workout!  
+- **Challenge Mode:** Keep track of your moves and try to beat your previous score.  
+- **Pro Tip:** Create your own “house rules” – like a time limit or limited hints – to make the game even more fun!
 
-  
+
+## 💻 Running Locally
+
+1. Make sure **Python 3.x** is installed.  
+2. Tkinter is usually included; if not, install it (`sudo apt-get install python3-tk` on Linux).  
+3. Download or clone the repository:  
+```bash 
+git clone <repository_url> 
+```
+4.Navigate to the folder and run the game
+python memory_game.py
+ or
+python3 memory_game.py
+
 ## 🤝 Contributions by Aneesha
 
 This Memory Game was fully **designed, developed, and created by Aneesha Manjunath Iyer**, including all gameplay mechanics, visuals, and features. Ensured the game is **fun, interactive, and beginner-friendly**, and added the demo, screenshots, and bonus tips to enhance the player experience.  
