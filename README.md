@@ -10,6 +10,9 @@ Flip cards, match pairs, and try to finish with as few moves as possible!
 - End screen with moves and **Play Again** button
 - Simple, beginner-friendly code
 
+## 🎥 Demo
+![Game demo](Screenshots/Demo_game.gif)
+
 ## Screenshot
 
 **Start Screen**
