@@ -13,16 +13,16 @@ Flip cards, match pairs, and try to finish with as few moves as possible!
 ## Screenshot
 
 **Start Screen**
-<img src="screenshots/Start.png" width="300">
+<img src="Screenshots/Start.png" width="300">
 
 **Correct Match**
-<img src="screenshots/Match.png" width="300">
+<img src="Screenshots/Match.png" width="300">
 
 **Wrong Match**
-<img src="screenshots/Wrongmatch.png" width="300">
+<img src="Screenshots/Wrongmatch.png" width="300">
 
-**Finish Screen**
-<img src="screenshots/Finish.png" width="300">
+**Completed Finish Game**
+<img src="Screenshots/Finish.png" width="300">
 
 ![Start Screen](Screenshots/Start.png)
 ![Wrong Match](Screenshots/Wrongmatch.png)
