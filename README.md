@@ -11,6 +11,19 @@ Flip cards, match pairs, and try to finish with as few moves as possible!
 - Simple, beginner-friendly code
 
 ## Screenshot
+
+**Start Screen**
+<img src="screenshots/Start.png" width="300">
+
+**Correct Match**
+<img src="screenshots/Match.png" width="300">
+
+**Wrong Match**
+<img src="screenshots/Wrongmatch.png" width="300">
+
+**Finish Screen**
+<img src="screenshots/Finish.png" width="300">
+
 ![Start Screen](Screenshots/Start.png)
 ![Wrong Match](Screenshots/Wrongmatch.png)
 ![Correct Match](Screenshots/Match.png)
