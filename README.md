@@ -13,7 +13,7 @@ Flip cards, match pairs, and try to finish with as few moves as possible!
 ## 🎥 Demo
 ![Game demo](Screenshots/Demo_game.gif)
 
-## Screenshot
+## Screenshots
 
 **Start Screen**
 <img src="Screenshots/Start.png" width="300">
