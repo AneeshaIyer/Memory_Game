@@ -24,11 +24,6 @@ Flip cards, match pairs, and try to finish with as few moves as possible!
 **Completed Finish Game**
 <img src="Screenshots/Finish.png" width="300">
 
-![Start Screen](Screenshots/Start.png)
-![Wrong Match](Screenshots/Wrongmatch.png)
-![Correct Match](Screenshots/Match.png)
-![Completed Finsih Game](Screenshots/Finish.png)
-
 ## How to run (locally)
 1. Download the repository: **Code → Download ZIP**, then extract.
 2. Make sure you have **Python 3.x** installed.
